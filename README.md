@@ -49,5 +49,5 @@ Vysoké úhrady u poskytovatelů nehodnotí efektivitu ani kvalitu péče. Odrá
 
 PDF verze dashboardu je dostupná zde:
 
-[Dashboard PDF](dashboard/Brnicka_Hana_UZIS_dashboard_zdravotnicke_prostredky.pdf)
+[Dashboard PDF]([Dashboard PDF](Brnicka_Hana_Datova_analyza_Zdravotnicke_prostředky.pdf))
 
